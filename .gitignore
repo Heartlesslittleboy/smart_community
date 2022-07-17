@@ -1,0 +1,3 @@
+# Project exclude paths
+/smart_community_common/target/
+/smart_community_web/target/
